@@ -4,7 +4,7 @@ Simple, tic tac toe on a browser. Built this as a little React + Typescript refr
 
 ![Screenshot](https://github.com/ednunezg/tictactoe-react/blob/master/public/screenshot.png)
 
-Hosted at : {TODO: HOST}
+Hosted at : [https://eds-ttt-react.herokuapp.com/](https://eds-ttt-react.herokuapp.com/)
 
 ## Available Scripts
 
