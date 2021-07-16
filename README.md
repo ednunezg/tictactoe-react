@@ -1,6 +1,8 @@
 # Tic Tac Toe
 
+Simple, tic tac toe on a browser. Built this as a little React + Typescript refresher.
 
+Hosted at : {TODO: HOST}
 
 ## Available Scripts
 
