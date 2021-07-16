@@ -2,6 +2,8 @@
 
 Simple, tic tac toe on a browser. Built this as a little React + Typescript refresher.
 
+![Screenshot](https://github.com/ednunezg/tictactoe-react/blob/master/public/screenshot.png)
+
 Hosted at : {TODO: HOST}
 
 ## Available Scripts
